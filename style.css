@@ -1,6 +1,7 @@
 body {
     font-family: 'Playfair Display', serif;
     font-family: 'Roboto', sans-serif;
+    margin: 0%;
 }
 
 h1 {
@@ -55,4 +56,47 @@ h1 {
     background-image: url(images/shapes/Frame\ 57.jpg);
     background-repeat: none;
     background-position: left;
+}
+
+.nas {
+    text-align: center;
+}
+
+.food {
+
+    box-shadow: 5px 5px 10px gray;
+    padding: 5%;
+    border-radius: 17px;
+}
+
+.subscribers {
+    box-shadow: 10px 10px 40% gray;
+    padding: 2%;
+    border-radius: 15px;
+
+}
+
+.orange {
+    color: orange;
+    text-align: center;
+
+}
+
+.footer {
+    background-color: black;
+    padding: 20px;
+}
+
+.fresh {
+    color: gray;
+    text-align: center;
+}
+
+.eat-healthy {
+    text-align: center;
+}
+
+.live {
+    text-align: center;
+    color: white;
 }
