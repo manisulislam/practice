@@ -67,6 +67,7 @@ h1 {
     box-shadow: 5px 5px 10px gray;
     padding: 5%;
     border-radius: 17px;
+    width: 80%;
 }
 
 .subscribers {
@@ -99,4 +100,9 @@ h1 {
 .live {
     text-align: center;
     color: white;
+}
+
+.k {
+    width: 70%;
+    padding-left: 5%;
 }
