@@ -1,0 +1,58 @@
+body {
+    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    width: 600px;
+    font-size: x-large;
+    font-weight: 400px;
+}
+
+.flexible {
+    display: flex;
+    padding: 5%;
+
+}
+
+.half {
+    width: 50%;
+
+}
+
+.half img {
+    width: 100%;
+}
+
+.blue {
+    color: hsl(263, 88%, 46%);
+}
+
+.pic {
+    color: gray;
+}
+
+.anis {
+    margin-top: 40px;
+    margin-left: 100px;
+}
+
+.link-button {
+    background-color: rgb(58, 58, 185);
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    border-radius: 25px;
+    margin-bottom: 100px;
+    background-image: linear-gradient(blue, rgb(44, 110, 165));
+}
+
+.mori {
+    margin-bottom: 60px;
+}
+
+.banner {
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: none;
+    background-position: left;
+}
