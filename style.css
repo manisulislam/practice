@@ -106,6 +106,10 @@ h1 {
     text-align: center;
 }
 
+.text-right {
+    margin-right: 20px;
+}
+
 .happy {
     margin-left: 330px;
 }
@@ -123,13 +127,18 @@ h1 {
 
 .tube {
     display: flex;
-    padding: 100px;
+    border-radius: 10px;
+    padding: 5px 25px 5px 50px;
+    margin: 50px;
+
+    box-shadow: 5px 5px 40px gray;
+
 }
 
 .you {
     width: 30%;
-    box-shadow: 5px 5px 30% gray;
+
     border-radius: 15px;
-    padding: 5%;
+    padding: 15px;
 
 }
